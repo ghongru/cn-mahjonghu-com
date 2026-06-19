@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ghongru.github.io/cn-mahjonghu-com/sitemap.xml
